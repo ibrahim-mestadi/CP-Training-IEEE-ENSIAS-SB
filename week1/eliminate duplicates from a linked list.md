@@ -1,4 +1,4 @@
-### Probleme : eliminate duplicates from a linked list.md : 
+### Probleme : eliminate duplicates from a linked list : 
 
      You will take the head of a linked list whose nodes are in #sorted order
 with respect to their values. write a function that take the head and return this 
