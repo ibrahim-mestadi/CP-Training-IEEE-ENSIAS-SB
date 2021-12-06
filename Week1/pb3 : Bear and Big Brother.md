@@ -6,9 +6,11 @@ Right now, Limak and Bob weigh a and b respectively. It's guaranteed that Limak'
 Limak eats a lot and his weight is tripled after every year, while Bob's weight is doubled after every year.
 
 After how many full years will Limak become strictly larger (strictly heavier) than Bob?
-Input
+
+Input:
 The only line of the input contains two integers a and b (1 ≤ a ≤ b ≤ 10) — the weight of Limak and the weight of Bob respectively.
-Output
+
+Output :
 Print one integer, denoting the integer number of years after which Limak will become strictly larger than Bob.
 
 ## sample input :
